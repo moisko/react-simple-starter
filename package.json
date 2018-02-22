@@ -1,7 +1,8 @@
 {
   "name": "react-simple-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "react simple starter",
+  "repository": "https://github.com/moisko/react-simple-starter",
   "scripts": {
     "dev": "webpack-dev-server --content-base=src",
     "build": "webpack -w"
